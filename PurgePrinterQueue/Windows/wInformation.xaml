@@ -1,0 +1,44 @@
+﻿<controls:MetroWindow x:Class="PurgePrinterQueue.Windows.wInformation"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:local="clr-namespace:PurgePrinterQueue.Windows"
+        Title="Information" Height="328.488" Width="600" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" TitleCaps="False">
+    <Grid>
+        <RichTextBox FontSize="10" IsEnabled="False" Grid.ColumnSpan="4" Margin="10,21,10,103">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Created by (c) 2018 Clint Masden" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software." />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="" />
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <RichTextBox FontSize="10" IsEnabled="False" Grid.ColumnSpan="4" Margin="10,201,10,10">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Resources:" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="https://icons8.com/license" />
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="" />
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</controls:MetroWindow>

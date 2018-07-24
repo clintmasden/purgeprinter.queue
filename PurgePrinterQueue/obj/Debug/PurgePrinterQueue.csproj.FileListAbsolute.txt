@@ -1,0 +1,60 @@
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.csprojResolveAssemblyReference.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\Windows\wMain.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\Windows\wMain.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\UserControls\uJob.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\Windows\wInformation.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\App.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.lref
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\bin\Debug\PurgePrinterQueue.exe.config
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\bin\Debug\PurgePrinterQueue.exe
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\bin\Debug\PurgePrinterQueue.pdb
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\App.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\UserControls\uJob.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\Windows\wInformation.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.g.resources
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.Properties.Resources.resources
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.csproj.GenerateResource.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.csproj.CoreCompileInputs.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.exe
+C:\Users\Clint M\source\repos\ResetPrinterQueue\ResetPrinterQueue\obj\Debug\PurgePrinterQueue.pdb
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wMain.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wMain.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\UserControls\uJob.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wInformation.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\App.g.cs
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.lref
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\App.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\UserControls\uJob.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wInformation.baml
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.g.resources
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.pdb
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.exe.config
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.exe
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.pdb
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.Properties.Resources.resources
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csproj.GenerateResource.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csproj.CoreCompileInputs.cache
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.exe
+C:\Users\Clint M\source\repos\ResetPrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csprojResolveAssemblyReference.cache
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.exe.config
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.exe
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\bin\Debug\PurgePrinterQueue.pdb
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csprojResolveAssemblyReference.cache
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wMain.baml
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wMain.g.cs
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\UserControls\uJob.g.cs
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wInformation.g.cs
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\App.g.cs
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.cache
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue_MarkupCompile.lref
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\App.baml
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\UserControls\uJob.baml
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\Windows\wInformation.baml
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.g.resources
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.Properties.Resources.resources
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csproj.GenerateResource.cache
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.csproj.CoreCompileInputs.cache
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.exe
+C:\Bucket\GIT\PurgePrinterQueue\PurgePrinterQueue\obj\Debug\PurgePrinterQueue.pdb
