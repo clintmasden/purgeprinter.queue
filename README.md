@@ -1,7 +1,7 @@
-Tool + Purge Printer Queue & Jobs
+Tool + View Saved WIFI Passwords
 
-Resolves Corrupt Jobs In Printer Queues
+Uses NETSH & NativeWifi to display saved WIFI credentials.
 
 Article:
 
-https://clintmasden.com/tool-purge-printer-queue-jobs
+COMING SOON
